@@ -27,6 +27,8 @@ DOMAIN-KEYWORD,oceancloud.asia
 # GUAI追新emby
 DOMAIN-KEYWORD,guaiguaiemby.83787.de
 DOMAIN-KEYWORD,zx.dadagay.com
+# youno emby
+DOMAIN-KEYWORD,younoyes.com
 
 DOMAIN-KEYWORD,alikunlun.com
 DOMAIN-SUFFIX,api2.ickuui.com
@@ -34,6 +36,3 @@ DOMAIN-SUFFIX,bjptqr.cn.gccdn.net
 IP-CIDR,172.19.0.2/32
 IP-CIDR,120.241.140.122/32
 IP-CIDR,104.21.72.57/32
-
-# youno emby
-DOMAIN-KEYWORD,younoyes.com
