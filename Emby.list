@@ -1,0 +1,33 @@
+# ======= EMBY影视规则 ========
+# emos emby
+DOMAIN-KEYWORD,200038.xyz
+DOMAIN-KEYWORD,emos.best
+# hohai emby
+DOMAIN-KEYWORD,emby-npo.hohai.eu.org
+# shrekmedia emby
+DOMAIN-KEYWORD,public.shrekmedia.org
+# 游骑兵emby
+DOMAIN-KEYWORD,emby666.alien666.de5.net
+# 墨云阁emby
+DOMAIN-KEYWORD,mobaiemby.site
+# 守候网络emby
+DOMAIN-KEYWORD,cn2gias.uk
+DOMAIN-SUFFIX,newsntp.com
+# OK emby
+DOMAIN-KEYWORD,okemby
+# mirai emby
+DOMAIN-KEYWORD,miraiemby.com
+# GUAI追新
+DOMAIN-SUFFIX,guaiguaiemby.83787.de
+# 飞了个喵emby
+DOMAIN-KEYWORD,meowfly.de
+
+DOMAIN-KEYWORD,alikunlun.com
+DOMAIN-SUFFIX,api2.ickuui.com
+DOMAIN-SUFFIX,bjptqr.cn.gccdn.net
+IP-CIDR,172.19.0.2/32
+IP-CIDR,120.241.140.122/32
+IP-CIDR,104.21.72.57/32
+
+# youno emby
+DOMAIN-KEYWORD,younoyes.com
