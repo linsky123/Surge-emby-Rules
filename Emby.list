@@ -46,6 +46,9 @@ DOMAIN-SUFFIX,eb.zzm.li
 # 乐蛙 emby
 DOMAIN-SUFFIX,eb.atrct.cn
 DOMAIN-SUFFIX,emby.taotu.ink
+# 野草地 emby
+DOMAIN-SUFFIX,od.emby.fan
+
 
 DOMAIN-KEYWORD,alikunlun.com
 DOMAIN-SUFFIX,api2.ickuui.com
