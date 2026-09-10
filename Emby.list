@@ -12,8 +12,9 @@ DOMAIN-KEYWORD,heisi.org
 # 墨云阁emby
 DOMAIN-KEYWORD,mobaiemby.site
 # 守候网络emby
-DOMAIN-KEYWORD,cn2gias.uk
+DOMAIN-KEYWORD,cn2gias
 DOMAIN-SUFFIX,newsntp.com
+DOMAIN-KEYWORD,array2026
 # OK emby
 DOMAIN-KEYWORD,okemby
 # mirai emby
@@ -67,6 +68,9 @@ DOMAIN-KEYWORD,yusen6
 DOMAIN-KEYWORD,yusen
 # 营养快线_emby
 DOMAIN-SUFFIX,yykx.top
+# 随时跑路_emby
+DOMAIN-SUFFIX,kingemby.com
+
 
 
 
