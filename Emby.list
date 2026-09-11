@@ -70,8 +70,9 @@ DOMAIN-KEYWORD,yusen
 DOMAIN-SUFFIX,yykx.top
 # 随时跑路_emby
 DOMAIN-SUFFIX,kingemby.com
-
-
+# 乐观_emby
+DOMAIN-SUFFIX,emby.dijia.de
+DOMAIN-SUFFIX,yxrkemby.haosao.de
 
 
 DOMAIN-KEYWORD,alikunlun.com
