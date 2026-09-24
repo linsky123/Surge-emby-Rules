@@ -81,6 +81,9 @@ DOMAIN-SUFFIX,yuntv.de
 # 茶包影院_emby
 DOMAIN-SUFFIX,tbagemby.tbag.dpdns.org
 DOMAIN-SUFFIX,tbagemby.tbag.qzz.io
+# 非越媒体库_emby
+DOMAIN-SUFFIX,cf.sfcj.org
+DOMAIN-SUFFIX,media.emby.pro
 
 
 DOMAIN-KEYWORD,alikunlun.com
