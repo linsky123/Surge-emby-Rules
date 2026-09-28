@@ -86,7 +86,9 @@ DOMAIN-SUFFIX,cf.sfcj.org
 DOMAIN-SUFFIX,media.emby.pro
 # 宸澄_emby
 DOMAIN-SUFFIX,media.wybcs.work
-
+# 夏天_emby
+DOMAIN-SUFFIX,cf.maodu.xyz
+DOMAIN-SUFFIX,cfsw.maodu.xyz
 
 DOMAIN-KEYWORD,alikunlun.com
 DOMAIN-SUFFIX,api2.ickuui.com
